@@ -1,0 +1,88 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : Arduino_r3_uno.brd                            )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Fri Aug 02 14:34:41 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+         Placed symbol:  IC2 / ATMEGA8-TQFP32_0_LCC32_ATMEGA16 / LCC32 at (111.859 311.185)
+         Placed symbol:  IC1 / ATMEGA8-TQFP32_0_DIP10028W300L1 / DIP10028W300L1375 at (120.952 303.835)
+         Placed symbol:  J4 / SIPSOC-10_POLCON100RHTM1SQSW440 / POLCON100RHTM1SQSW44010 at (157.046 303.631)
+         Placed symbol:  R5 / R_CAY16-J4_1K / CAY16-J4 at (184.009 304.133)
+         Placed symbol:  R4 / R_CAY16-J4_1K / CAY16-J4 at (187.713 304.133)
+         Placed symbol:  R16 / R_CAY16-J4_1K / CAY16-J4 at (191.417 304.133)
+         Placed symbol:  R2 / R_CAY16-J4_1K / CAY16-J4 at (195.121 304.133)
+         Placed symbol:  R13 / R_CAY16-J4_1K / CAY16-J4 at (198.825 304.133)
+         Placed symbol:  R12 / R_CAY16-J4_1K / CAY16-J4 at (202.529 304.133)
+         Placed symbol:  R14 / R_CAY16-J4_1K / CAY16-J4 at (206.233 304.133)
+         Placed symbol:  R11 / R_CAY16-J4_1MEG / CAY16-J4 at (209.937 304.133)
+         Placed symbol:  R9 / R_CAY16-J4_22R / CAY16-J4 at (213.641 304.133)
+         Placed symbol:  R8 / R_CAY16-J4_1MEG / CAY16-J4 at (217.345 304.133)
+         Placed symbol:  R7 / R_CAY16-J4_10K / CAY16-J4 at (221.049 304.133)
+         Placed symbol:  R6 / R_CAY16-J4_10K / CAY16-J4 at (224.753 304.133)
+         Placed symbol:  R3 / R_CAY16-J4_10K / CAY16-J4 at (228.457 304.133)
+         Placed symbol:  R1 / R_CAY16-J4_10K / CAY16-J4 at (232.161 304.133)
+         Placed symbol:  J7 / SIPSOC-8_JUMPER8_SIPSOC-8 / JUMPER8 at (235.953 303.733)
+         Placed symbol:  R10 / R_CAY16-J4_22R / CAY16-J4 at (243.002 304.133)
+         Placed symbol:  U5 / OPAMP DUAL SUPPLY_3_SOIC127P600 / SOIC127P600X175-8N at (248.456 305.163)
+         Placed symbol:  J1 / SIPSOC-8_JUMPER8_POWER / JUMPER8 at (254.858 303.733)
+         Placed symbol:  J5 / SIPSOC-6_POLCON156VHTM1SQSW4256 / POLCON156VHTM1SQSW4256 at (261.835 308.262)
+         Placed symbol:  J2 / CON6A_POLCON156VHTM1SQSW4256_IC / POLCON156VHTM1SQSW4256 at (106.672 325.875)
+         Placed symbol:  J3 / CON6A_POLCON156VHTM1SQSW4256_CO / POLCON156VHTM1SQSW4256 at (131.099 325.875)
+         Placed symbol:  U4 / LP2985_JUMPER5_LP2985-33DBVR / JUMPER5 at (154.467 321.346)
+         Placed symbol:  JP1 / CON4A_JUMPER4_2X2M-MM / JUMPER4 at (167.370 321.600)
+         Placed symbol:  J6 / CON4_JUMPER4_CON4 / JUMPER4 at (177.733 321.600)
+         Placed symbol:  SW1 / SW PUSHBUTTON-SPST-2_0_BLKCON10 / BLKCON100VHTM2OEW2004 at (188.198 321.448)
+         Placed symbol:  U3 / CON4A_2_JUMPER4_NCP1117ST50T3G / JUMPER4 at (193.583 321.600)
+         Placed symbol:  T1 / MOSFET P SGD_SOT23_FDN340P / SOT23 at (204.479 321.600)
+         Placed symbol:  X1 / CON3_0_VRES57_POWERSUPPLY_NC21M / VRES57 at (207.476 321.219)
+         Placed symbol:  LED3 / LED_DAX2350X080031_YELLOW / DAX2350X080031 at (221.522 321.194)
+         Placed symbol:  LED1 / LED_DAX2350X080031_YELLOW / DAX2350X080031 at (232.697 321.194)
+         Placed symbol:  D3 / DIODE_SMD120612_CD1206-S01575 / SMD120612 at (235.338 321.740)
+         Placed symbol:  D2 / LED_DAX2350X080031_GREEN ON / DAX2350X080031 at (249.600 321.194)
+         Placed symbol:  D1 / DIODE_DIO400_DIODE / DIO400 at (252.876 321.194)
+         Placed symbol:  C4 / CAP POL_CPCYL1D200LS100031_47U / CPCYL1D200LS100031 at (255.848 322.718)
+         Placed symbol:  C2 / CAP POL_CPCYL1D200LS100031_47U / CPCYL1D200LS100031 at (261.335 322.718)
+         Placed symbol:  C5 / CAP NP_SMC0603_1U / SMC0603 at (266.275 320.978)
+         Placed symbol:  L1 / BEAD_SMD080512_BLM21 / SMD080512 at (270.034 321.486)
+         Placed symbol:  C9 / CAP NP_SMC0603_22P / SMC0603 at (274.135 320.978)
+         Placed symbol:  D4 / DIODE_SMD120612_CD1206-S01575 / SMD120612 at (277.983 321.740)
+         Placed symbol:  C12 / CAP NP_SMC0603_22P / SMC0603 at (283.139 320.978)
+         Placed symbol:  C11 / CAP NP_SMC0603_22P / SMC0603 at (105.168 333.602)
+         Placed symbol:  C7 / CAP NP_SMC0603_100N / SMC0603 at (108.444 333.602)
+         Placed symbol:  C6 / CAP NP_SMC0603_100N / SMC0603 at (111.720 333.602)
+         Placed symbol:  C3 / CAP NP_SMC0603_100N / SMC0603 at (114.996 333.602)
+         Placed symbol:  C13 / CAP NP_SMC0603_100N / SMC0603 at (118.272 333.602)
+         Placed symbol:  R15 / R_0603-NO_R / 0603-NO at (123.249 333.429)
+         Placed symbol:  F1 / FUSE_FUSESMD_MF-MSMF050-2 / FUSESMD at (125.725 334.500)
+         Placed symbol:  SW2 / SW MAG-SPST_BLKCON100VHTM2OEW20 / BLKCON100VHTM2OEW2002 at (133.050 334.072)
+         Placed symbol:  SW3 / SW MAG-SPST_BLKCON100VHTM1SQW10 / BLKCON100VHTM1SQW1002 at (135.997 334.072)
+         Placed symbol:  C14 / CAP NP_SMC0603_1U / SMC0603 at (140.937 333.602)
+         Placed symbol:  C8 / CAP NP_SMC0603_22P / SMC0603 at (144.213 333.602)
+         Placed symbol:  C10 / CAP NP_SMC0603_100N / SMC0603 at (147.489 333.602)
+         Placed symbol:  C1 / CAP NP_SMC0603_100N / SMC0603 at (150.765 333.602)
+         Placed symbol:  LED2 / LED_DAX2350X080031_YELLOW / DAX2350X080031 at (163.147 333.818)
+         Placed symbol:  Y1 / ZTA_RAD200X100LS100031_CSTCE16M / RAD200X100LS100031 at (165.763 334.072)
+         Placed symbol:  Y2 / ZTA_RAD200X100LS100031_16MHZ / RAD200X100LS100031 at (171.250 334.072)
+         Placed symbol:  Z1 / VARISTOR_SMR0603_CG0603MLC-05E / SMR0603 at (176.190 333.602)
+         Placed symbol:  Z2 / VARISTOR_SMR0603_CG0603MLC-05E / SMR0603 at (179.466 333.602)
+
+
+Placed 61 of 61 applicable (61 total) symbols.
+
+-----------------------------------------------------------------------
+
+State: Placing on layer TOP
+
+
+
+Placed 0 of 0 applicable (0 total) symbols.
+
+-----------------------------------------------------------------------
+

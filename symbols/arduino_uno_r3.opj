@@ -1,0 +1,158 @@
+(ExpressProject "arduino_uno_r3"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\arduino_uno_r3.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (CON2
+      (FullPartName "CON2.Normal")
+      (LibraryName
+         "C:\USERS\USER\DESKTOP\ORCAD_VSCODE\CDNS\CDNS\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName
+         "C:\USERS\USER\DESKTOP\ORCAD_VSCODE\CDNS\CDNS\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    ("CAP POL"
+      (FullPartName "CAP POL.Normal")
+      (LibraryName
+         "C:\USERS\USER\DESKTOP\ORCAD_VSCODE\CDNS\CDNS\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (DIODE
+      (FullPartName "DIODE.Normal")
+      (LibraryName
+         "C:\USERS\USER\DESKTOP\ORCAD_VSCODE\CDNS\CDNS\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName
+         "C:\USERS\USER\DESKTOP\ORCAD_VSCODE\CDNS\CDNS\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName
+         "C:\USERS\USER\DESKTOP\ORCAD_VSCODE\CDNS\CDNS\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (MOSFET_DN_GSD
+      (FullPartName "MOSFET_DN_GSD.Normal")
+      (LibraryName
+         "C:\USERS\USER\DESKTOP\ORCAD_VSCODE\CDNS\CDNS\TOOLS\CAPTURE\LIBRARY\TRANSISTOR.OLB")
+      (DeviceIndex "0"))
+    ("OPAMP DUAL SUPPLY"
+      (FullPartName "OPAMP DUAL SUPPLY.Normal")
+      (LibraryName
+         "C:\USERS\USER\DESKTOP\ORCAD_VSCODE\CDNS\CDNS\TOOLS\CAPTURE\LIBRARY\OPAMP.OLB")
+      (DeviceIndex "0"))
+    (OPA650
+      (FullPartName "OPA650.Normal")
+      (LibraryName
+         "C:\USERS\USER\DESKTOP\ORCAD_VSCODE\CDNS\CDNS\TOOLS\CAPTURE\LIBRARY\OPAMP.OLB")
+      (DeviceIndex "0"))
+    (VCC
+      (LibraryName
+         "C:\USERS\USER\DESKTOP\ORCAD_VSCODE\CDNS\CDNS\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    ("CAP NP"
+      (FullPartName "CAP NP.Normal")
+      (LibraryName
+         "C:\USERS\USER\DESKTOP\ORCAD_VSCODE\CDNS\CDNS\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (CON6A
+      (FullPartName "CON6A.Normal")
+      (LibraryName
+         "C:\USERS\USER\DESKTOP\ORCAD_VSCODE\CDNS\CDNS\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("SW MAG-SPST"
+      (FullPartName "SW MAG-SPST.Normal")
+      (LibraryName
+         "C:\USERS\USER\DESKTOP\ORCAD_VSCODE\CDNS\CDNS\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (VARISTOR
+      (FullPartName "VARISTOR.Normal")
+      (LibraryName
+         "C:\USERS\USER\DESKTOP\ORCAD_VSCODE\CDNS\CDNS\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (FUSE
+      (FullPartName "FUSE.Normal")
+      (LibraryName
+         "C:\USERS\USER\DESKTOP\ORCAD_VSCODE\CDNS\CDNS\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (CON4
+      (FullPartName "CON4.Normal")
+      (LibraryName
+         "C:\USERS\USER\DESKTOP\ORCAD_VSCODE\CDNS\CDNS\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (BEAD
+      (FullPartName "BEAD.Normal")
+      (LibraryName
+         "C:\USERS\USER\DESKTOP\ORCAD_VSCODE\CDNS\CDNS\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (ZTA
+      (FullPartName "ZTA.Normal")
+      (LibraryName
+         "C:\USERS\USER\DESKTOP\ORCAD_VSCODE\CDNS\CDNS\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (CON4A
+      (FullPartName "CON4A.Normal")
+      (LibraryName
+         "C:\USERS\USER\DESKTOP\ORCAD_VSCODE\CDNS\CDNS\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("SW PUSHBUTTON-SPST-2"
+      (FullPartName "SW PUSHBUTTON-SPST-2.Normal")
+      (LibraryName
+         "C:\USERS\USER\DESKTOP\ORCAD_VSCODE\CDNS\CDNS\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (SIPSOC-8
+      (FullPartName "SIPSOC-8.Normal")
+      (LibraryName
+         "C:\USERS\USER\DESKTOP\ORCAD_VSCODE\CDNS\CDNS\TOOLS\CAPTURE\LIBRARY\MECHANICAL.OLB")
+      (DeviceIndex "0"))
+    (VCC_ARROW
+      (LibraryName
+         "C:\USERS\USER\DESKTOP\ORCAD_VSCODE\CDNS\CDNS\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    ("CONN SOCKET 3x2"
+      (FullPartName "CONN SOCKET 3x2.Normal")
+      (LibraryName
+         "C:\USERS\USER\DESKTOP\ORCAD_VSCODE\CDNS\CDNS\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (SIPSOC-6
+      (FullPartName "SIPSOC-6.Normal")
+      (LibraryName
+         "C:\USERS\USER\DESKTOP\ORCAD_VSCODE\CDNS\CDNS\TOOLS\CAPTURE\LIBRARY\MECHANICAL.OLB")
+      (DeviceIndex "0"))
+    (SIPSOC-10
+      (FullPartName "SIPSOC-10.Normal")
+      (LibraryName
+         "C:\USERS\USER\DESKTOP\ORCAD_VSCODE\CDNS\CDNS\TOOLS\CAPTURE\LIBRARY\MECHANICAL.OLB")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory
+     "C:\Users\user\Desktop\OrCAD_vscode\cdns\cdns\tools\capture\library")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Select "Design Resources"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 200 0 518"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 50 1322 50 601")
+        (Scroll "-54 0")
+        (Zoom "34")
+        (Occurrence "/"))
+      (Path "C:\USERS\USER\DESKTOP\ORCAD_VSCODE\ARDUINO_UNO\ARDUINO_UNO_R3.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE2")))
+  (MPSSessionName "user"))

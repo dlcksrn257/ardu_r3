@@ -1,0 +1,196 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    PLACEMENT LOG                                                    )
+(                                                                     )
+(    Drawing          : Arduino_r3_uno.brd                            )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Fri Aug 02 14:20:39 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Autoplace C:/Users/user/AppData/Roaming/SPB_Data/workspace/arduino_r3/allegro/Arduino_r3_uno.brd 
+ Save as C:/Users/user/AppData/Roaming/SPB_Data/workspace/arduino_r3/allegro/Arduino_r3_uno.brd 
+
+ Will search while getting acceptable improvement
+ Will not scale complete graph edges
+ Start time Fri Aug 02 14:20:39 2019
+
+
+ 
+ 	 	 Placement Task Version 1.00 
+ 
+ 
+ Algorithm  : IC
+ Place within: board
+ Map grid points to: library origin
+ Place leftovers on bottom: YES
+ Allow component overlap: NO
+ Soft boundary: NO
+ Cluster: NO
+ No Rat: NO
+ Remove TAG: NO
+ Components at rotation of 0 degrees are weighted 50
+
+ Components at rotation of 90 degrees are weighted 0
+
+ Components at rotation of 180 degrees are weighted 0
+
+ Components at rotation of 270 degrees are weighted 0
+
+ Board direction of north is weighted 50
+
+ Board direction of east is weighted 50
+
+ Board direction of south is weighted 50
+
+ Board direction of west is weighted 50
+
+ Component mirroring weight is 50
+
+ Component straightness weight is 50
+
+ Warning: unplaced components are not PLACE TAGGED.
+
+ Placement Keepin
+
+  line seg 	(43.180,116.840) (198.120,116.840)
+  line seg 	(198.120,116.840) (198.120,152.400)
+  line seg 	(198.120,152.400) (43.180,152.400)
+  line seg 	(43.180,152.400) (43.180,116.840)
+
+ Top grid x increment will be 1.000
+
+ grid y increment will be 1.000
+
+ Start grid point will be (43.980 117.840)
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dangling Line, Via and Antenna Report                            )
+(                                                                     )
+(    Drawing          : Arduino_r3_uno.brd                            )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Fri Aug 02 14:20:39 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Report methodology:
+  - Dangling lines have at least one end not connected.
+  - Dangling vias have one or no connection
+      - Plus are not a test, thieving or netshort property via.
+  - Antenna vias do not have connections on their start and end layers.
+      - Plus they are not a thieving vias.
+      - Optionally, VOLTAGE nets, testvias and through vias can be suppressed with
+        the environment variable report_antennavia.
+      - Section may be suppressed by variable report_noantennavia.
+  - Not part of the current partition.
+  - To suppress items in dangle report add the OK_DANGLE property to the via
+    or connect line.
+
+
+<< Summary >>
+  Total dangling lines:       0
+  Total dangling vias:        0
+  Total antenna vias:         0
+
+    Layout Statistics:
+    -----------------
+        Components:  Placed 59  Unplaced 2  Total 61
+        Nets:  W/Rats 72  No/Rats 2  Total 74
+        Pins:  W/Rats 212  No/Rats 2  Unused 89  Unplaced 16  Total 319
+        Equivalent ICs (1 pin = 1/14 EIC)  22
+        RatTs              0
+        Router Keepin (in) (1.7000,4.6000) by (7.8000,6.0000)
+        Layout area (sq in) 8.54
+        Layout density (sq in/EIC) 0.388
+        Pin density (Pins/sq in) 37.354
+        Average ratlength (in)  1.6
+        Rat density (in/sq in) 25.818
+
+    Connection Statistics:        W/Rats      No/Rats      Total
+    ----------------------        ------      -------      -----
+        Connections                140           0          140
+        Already Connected            0           0            0
+        Missing Connections        140           0          140
+        Dangling Connections                                  0
+        Connection Completion        0.00%       0.00%        0.00%
+        Manh Distance (inches)     220.48
+        Etch Length (inches)         0.00        0.00         0.00
+        Number of vias		     0           0            0
+        Vias per Connection          0.00        0.00         0.00
+        Smd pins with attached clines                         0
+
+
+ Starting Connection Matrix construction.
+
+ Failed placements are marked with an asterisk in the table below
+
+ 
+  ref_des    location_x  location_y  rotation mirror            package
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dangling Line, Via and Antenna Report                            )
+(                                                                     )
+(    Drawing          : Arduino_r3_uno.brd                            )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Fri Aug 02 14:20:39 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Report methodology:
+  - Dangling lines have at least one end not connected.
+  - Dangling vias have one or no connection
+      - Plus are not a test, thieving or netshort property via.
+  - Antenna vias do not have connections on their start and end layers.
+      - Plus they are not a thieving vias.
+      - Optionally, VOLTAGE nets, testvias and through vias can be suppressed with
+        the environment variable report_antennavia.
+      - Section may be suppressed by variable report_noantennavia.
+  - Not part of the current partition.
+  - To suppress items in dangle report add the OK_DANGLE property to the via
+    or connect line.
+
+
+<< Summary >>
+  Total dangling lines:       0
+  Total dangling vias:        0
+  Total antenna vias:         0
+
+    Layout Statistics:
+    -----------------
+        Components:  Placed 59  Unplaced 2  Total 61
+        Nets:  W/Rats 72  No/Rats 2  Total 74
+        Pins:  W/Rats 212  No/Rats 2  Unused 89  Unplaced 16  Total 319
+        Equivalent ICs (1 pin = 1/14 EIC)  22
+        RatTs              0
+        Router Keepin (in) (1.7000,4.6000) by (7.8000,6.0000)
+        Layout area (sq in) 8.54
+        Layout density (sq in/EIC) 0.388
+        Pin density (Pins/sq in) 37.354
+        Average ratlength (in)  1.6
+        Rat density (in/sq in) 25.818
+
+    Connection Statistics:        W/Rats      No/Rats      Total
+    ----------------------        ------      -------      -----
+        Connections                140           0          140
+        Already Connected            0           0            0
+        Missing Connections        140           0          140
+        Dangling Connections                                  0
+        Connection Completion        0.00%       0.00%        0.00%
+        Manh Distance (inches)     220.48
+        Etch Length (inches)         0.00        0.00         0.00
+        Number of vias		     0           0            0
+        Vias per Connection          0.00        0.00         0.00
+        Smd pins with attached clines                         0
+
+
+ Successfully placed 0 components out of 0
+
+
+
+Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
+Actual time of completion: Fri Aug 02 14:20:39 2019
+

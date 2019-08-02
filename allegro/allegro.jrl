@@ -1,0 +1,27 @@
+\t (00:00:02) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Fri Aug 02 14:40:19 2019
+\t (00:00:02)         Host=USER-PC User=user Pid=12124 CPUs=4
+\t (00:00:02) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:04) Starting new design...
+\i (00:00:05) trapsize 1716
+\i (00:00:05) trapsize 1756
+\i (00:00:05) trapsize 2852
+\i (00:00:05) trapsize 2729
+\i (00:00:05) generaledit 
+\i (00:00:07) enved 
+\i (00:00:08) generaledit 
+\i (00:00:10) setwindow form.prfedit
+\i (00:00:10) FORM prfedit treelist  My_favorites 
+\i (00:00:11) FORM prfedit treelist  Drawing 
+\e (00:00:15) Range is 32 to 255.
+\e (00:00:15) Range is 32 to 255.
+\e (00:00:16) Range is 32 to 255.
+\i (00:00:21) FORM prfedit allegro_long_name_size 254 
+\i (00:00:23) FORM prfedit done  
+\i (00:00:24) setwindow pcb
+\i (00:00:24) pick grid 325.351 325.351
+\t (00:00:24) last pick:  325.120 325.120
+\i (00:00:25) exit 
+\t (00:00:25)     Journal end - Fri Aug 02 14:40:42 2019

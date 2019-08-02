@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : FuseSmd.dra                                   )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Fri Aug 02 12:17:53 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/WORK_OrCAD/OSCILLATOR/allegro/symbols
+    Name      = fusesmd.psm
+    User      = user
+    Machine   = DESKTOP-0CCQGI6
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : my_adaptor.dra                                )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Fri Aug 02 11:28:17 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/WORK_OrCAD/symbol/dra
+    Name      = my_adaptor.psm
+    User      = user
+    Machine   = DESKTOP-0CCQGI6
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

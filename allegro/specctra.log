@@ -1,0 +1,494 @@
+# 
+# ===============================================================================
+#                               Allegro PCB Router                               
+# Copyright 1990-2010 Cadence Design Systems, Inc.  All Rights Reserved.
+# ===============================================================================
+# 
+# Software licensed for sale by Cadence Design Systems, Inc.
+# Current time = Fri Aug 02 11:15:35 2019
+# 
+# Allegro PCB Router v17-2-50 made 2016/03/28 at 15:56:36
+# Running on: user-pc, OS Version: WindowsNT 6.1.7601, Architecture: Intel Pentium II, III, or 4
+# Licensing: The program will not obey any unlicensed rules
+# No graphics will be displayed.
+# Design Name C:/Users/user/AppData/Roaming/SPB_Data/workspace/arduino_r3/allegro\Arduino.dsn
+# Batch File Name: pasde.do
+# Did File Name: C:/Users/user/AppData/Roaming/SPB_Data/workspace/arduino_r3/allegro/specctra.did
+# Current time = Fri Aug 02 11:15:37 2019
+# PCB C:/Users/user/AppData/Roaming/SPB_Data/workspace/arduino_r3/allegro
+# Master Unit set up as: MM 10000
+# PCB Limits xlo= -2.8000 ylo= -1.3000 xhi=102.8000 yhi= 71.3000
+# Total 27 Images Consolidated.
+# <<ERROR:>> Padstack unknown_padstack contains shapes without any size,
+#            please check the definition of the padstack in the design file.
+# <<ERROR:>> Unplaced component C2 has errors.
+#            To resolve, check Allegro symbols or
+#            set spif_no_unplaced_components on.
+# <<ERROR:>> Unplaced component C4 has errors.
+#            To resolve, check Allegro symbols or
+#            set spif_no_unplaced_components on.
+# <<ERROR:>> Unplaced component D2 has errors.
+#            To resolve, check Allegro symbols or
+#            set spif_no_unplaced_components on.
+# <<ERROR:>> Unplaced component F1 has errors.
+#            To resolve, check Allegro symbols or
+#            set spif_no_unplaced_components on.
+# <<ERROR:>> Unplaced component IC2 has errors.
+#            To resolve, check Allegro symbols or
+#            set spif_no_unplaced_components on.
+# <<ERROR:>> Unplaced component J2 has errors.
+#            To resolve, check Allegro symbols or
+#            set spif_no_unplaced_components on.
+# <<ERROR:>> Unplaced component J3 has errors.
+#            To resolve, check Allegro symbols or
+#            set spif_no_unplaced_components on.
+# <<ERROR:>> Unplaced component J4 has errors.
+#            To resolve, check Allegro symbols or
+#            set spif_no_unplaced_components on.
+# <<ERROR:>> Unplaced component J5 has errors.
+#            To resolve, check Allegro symbols or
+#            set spif_no_unplaced_components on.
+# <<ERROR:>> Unplaced component JP1 has errors.
+#            To resolve, check Allegro symbols or
+#            set spif_no_unplaced_components on.
+# <<ERROR:>> Unplaced component LED2 has errors.
+#            To resolve, check Allegro symbols or
+#            set spif_no_unplaced_components on.
+# <<ERROR:>> Unplaced component LED3 has errors.
+#            To resolve, check Allegro symbols or
+#            set spif_no_unplaced_components on.
+# <<ERROR:>> Unplaced component LED1 has errors.
+#            To resolve, check Allegro symbols or
+#            set spif_no_unplaced_components on.
+# <<ERROR:>> Unplaced component SW1 has errors.
+#            To resolve, check Allegro symbols or
+#            set spif_no_unplaced_components on.
+# <<ERROR:>> Unplaced component SW2 has errors.
+#            To resolve, check Allegro symbols or
+#            set spif_no_unplaced_components on.
+# <<ERROR:>> Unplaced component U3 has errors.
+#            To resolve, check Allegro symbols or
+#            set spif_no_unplaced_components on.
+# <<ERROR:>> Unplaced component U4 has errors.
+#            To resolve, check Allegro symbols or
+#            set spif_no_unplaced_components on.
+# <<ERROR:>> Unplaced component Y1 has errors.
+#            To resolve, check Allegro symbols or
+#            set spif_no_unplaced_components on.
+# Via VIA z=1, 2 xlo= -0.3050 ylo= -0.3050 xhi=  0.3050 yhi=  0.3050
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   VIA  
+# BOTTOM   VIA    ------
+# 
+# <<WARNING:>> Place: Pin 4 of logical_part 'ATMEGA8-TQFP32_0_Z_ATMEGA16U2-M' can not be found in component IC2.
+# <<WARNING:>> Place: Pin 31 of logical_part 'ATMEGA8-TQFP32_0_Z_ATMEGA16U2-M' can not be found in component IC2.
+# <<WARNING:>> Place: Pin 28 of logical_part 'ATMEGA8-TQFP32_0_Z_ATMEGA16U2-M' can not be found in component IC2.
+# <<WARNING:>> Place: Pin 27 of logical_part 'ATMEGA8-TQFP32_0_Z_ATMEGA16U2-M' can not be found in component IC2.
+# <<WARNING:>> Place: Pin 24 of logical_part 'ATMEGA8-TQFP32_0_Z_ATMEGA16U2-M' can not be found in component IC2.
+# <<WARNING:>> Place: Pin 33 of logical_part 'ATMEGA8-TQFP32_0_Z_ATMEGA16U2-M' can not be found in component IC2.
+# <<WARNING:>> Place: Pin 3 of logical_part 'ATMEGA8-TQFP32_0_Z_ATMEGA16U2-M' can not be found in component IC2.
+# <<WARNING:>> Place: Pin 30 of logical_part 'ATMEGA8-TQFP32_0_Z_ATMEGA16U2-M' can not be found in component IC2.
+# <<WARNING:>> Place: Pin 29 of logical_part 'ATMEGA8-TQFP32_0_Z_ATMEGA16U2-M' can not be found in component IC2.
+# <<WARNING:>> Place: Pin 32 of logical_part 'ATMEGA8-TQFP32_0_Z_ATMEGA16U2-M' can not be found in component IC2.
+# <<WARNING:>> Place: Pin 11 of logical_part 'ATMEGA8-TQFP32_0_Z_ATMEGA16U2-M' can not be found in component IC2.
+# <<WARNING:>> Place: Pin 9 of logical_part 'ATMEGA8-TQFP32_0_Z_ATMEGA16U2-M' can not be found in component IC2.
+# <<WARNING:>> Place: Pin 18 of logical_part 'ATMEGA8-TQFP32_0_Z_ATMEGA16U2-M' can not be found in component IC2.
+# <<WARNING:>> Place: Pin 14 of logical_part 'ATMEGA8-TQFP32_0_Z_ATMEGA16U2-M' can not be found in component IC2.
+# <<WARNING:>> Place: Pin 15 of logical_part 'ATMEGA8-TQFP32_0_Z_ATMEGA16U2-M' can not be found in component IC2.
+# <<WARNING:>> Place: Pin 8 of logical_part 'ATMEGA8-TQFP32_0_Z_ATMEGA16U2-M' can not be found in component IC2.
+# <<WARNING:>> Place: Pin 12 of logical_part 'ATMEGA8-TQFP32_0_Z_ATMEGA16U2-M' can not be found in component IC2.
+# <<WARNING:>> Place: Pin 16 of logical_part 'ATMEGA8-TQFP32_0_Z_ATMEGA16U2-M' can not be found in component IC2.
+# <<WARNING:>> Place: Pin 17 of logical_part 'ATMEGA8-TQFP32_0_Z_ATMEGA16U2-M' can not be found in component IC2.
+# <<WARNING:>> Place: Pin 25 of logical_part 'ATMEGA8-TQFP32_0_Z_ATMEGA16U2-M' can not be found in component IC2.
+# <<WARNING:>> Place: Pin 21 of logical_part 'ATMEGA8-TQFP32_0_Z_ATMEGA16U2-M' can not be found in component IC2.
+# <<WARNING:>> Place: Pin 20 of logical_part 'ATMEGA8-TQFP32_0_Z_ATMEGA16U2-M' can not be found in component IC2.
+# <<WARNING:>> Place: Pin 19 of logical_part 'ATMEGA8-TQFP32_0_Z_ATMEGA16U2-M' can not be found in component IC2.
+# <<WARNING:>> Place: Pin 26 of logical_part 'ATMEGA8-TQFP32_0_Z_ATMEGA16U2-M' can not be found in component IC2.
+# <<WARNING:>> Place: Pin 23 of logical_part 'ATMEGA8-TQFP32_0_Z_ATMEGA16U2-M' can not be found in component IC2.
+# <<WARNING:>> Place: Pin 6 of logical_part 'ATMEGA8-TQFP32_0_Z_ATMEGA16U2-M' can not be found in component IC2.
+# <<WARNING:>> Place: Pin 10 of logical_part 'ATMEGA8-TQFP32_0_Z_ATMEGA16U2-M' can not be found in component IC2.
+# <<WARNING:>> Place: Pin 22 of logical_part 'ATMEGA8-TQFP32_0_Z_ATMEGA16U2-M' can not be found in component IC2.
+# <<WARNING:>> Place: Pin 13 of logical_part 'ATMEGA8-TQFP32_0_Z_ATMEGA16U2-M' can not be found in component IC2.
+# <<WARNING:>> Place: Pin 5 of logical_part 'ATMEGA8-TQFP32_0_Z_ATMEGA16U2-M' can not be found in component IC2.
+# <<WARNING:>> Place: Pin 7 of logical_part 'ATMEGA8-TQFP32_0_Z_ATMEGA16U2-M' can not be found in component IC2.
+# <<WARNING:>> Place: Pin 5 of logical_part 'LP2985_Z_LP2985-33DBVR' can not be found in component U4.
+# <<WARNING:>> Place: Pin 3 of logical_part 'LP2985_Z_LP2985-33DBVR' can not be found in component U4.
+# <<WARNING:>> Place: Pin 4 of logical_part 'LP2985_Z_LP2985-33DBVR' can not be found in component U4.
+# <<WARNING:>> Place: Pin 8 of logical_part 'R_0603-NO_1M' can not be found in component R11.
+# <<WARNING:>> Place: Pin 7 of logical_part 'R_0603-NO_1M' can not be found in component R11.
+# <<WARNING:>> Place: Pin 6 of logical_part 'R_0603-NO_1M' can not be found in component R11.
+# <<WARNING:>> Place: Pin 5 of logical_part 'R_0603-NO_1M' can not be found in component R11.
+# <<WARNING:>> Place: Pin 4 of logical_part 'R_0603-NO_1M' can not be found in component R11.
+# <<WARNING:>> Place: Pin 3 of logical_part 'R_0603-NO_1M' can not be found in component R11.
+# <<WARNING:>> Place: Pin 8 of logical_part 'R_0603-NO_1M' can not be found in component R8.
+# <<WARNING:>> Place: Pin 7 of logical_part 'R_0603-NO_1M' can not be found in component R8.
+# <<WARNING:>> Place: Pin 6 of logical_part 'R_0603-NO_1M' can not be found in component R8.
+# <<WARNING:>> Place: Pin 5 of logical_part 'R_0603-NO_1M' can not be found in component R8.
+# <<WARNING:>> Place: Pin 4 of logical_part 'R_0603-NO_1M' can not be found in component R8.
+# <<WARNING:>> Place: Pin 3 of logical_part 'R_0603-NO_1M' can not be found in component R8.
+# <<WARNING:>> Place: Pin 4 of logical_part CON4A_2_Z_NCP1117ST50T3G can not be found in component U3.
+# <<WARNING:>> Place: Pin 3 of logical_part CON4A_2_Z_NCP1117ST50T3G can not be found in component U3.
+# <<WARNING:>> Net 'RD-' Component IC2 Pin 30 is missing in Image Z
+# <<ERROR:>> Pin IC2-30 not found in net 'RD-'
+# <<WARNING:>> Net MOSI2 Component IC2 Pin 16 is missing in Image Z
+# <<ERROR:>> Pin IC2-16 not found in net MOSI2
+# <<WARNING:>> Net MOSI2 Component IC2 Pin 18 is missing in Image Z
+# <<ERROR:>> Pin IC2-18 not found in net MOSI2
+# <<WARNING:>> Net MOSI2 Component IC2 Pin 19 is missing in Image Z
+# <<ERROR:>> Pin IC2-19 not found in net MOSI2
+# <<WARNING:>> Net M8TXD Component IC2 Pin 8 is missing in Image Z
+# <<ERROR:>> Pin IC2-8 not found in net M8TXD
+# <<WARNING:>> Net MISO2 Component IC2 Pin 17 is missing in Image Z
+# <<ERROR:>> Pin IC2-17 not found in net MISO2
+# <<WARNING:>> Net +3V3 Component U4 Pin 5 is missing in Image Z
+# <<ERROR:>> Pin U4-5 not found in net +3V3
+# <<WARNING:>> Net +5V Component IC2 Pin 32 is missing in Image Z
+# <<ERROR:>> Pin IC2-32 not found in net +5V
+# <<WARNING:>> Net +5V Component U3 Pin 4 is missing in Image Z
+# <<ERROR:>> Pin U3-4 not found in net +5V
+# <<WARNING:>> Net +5V Component U4 Pin 3 is missing in Image Z
+# <<ERROR:>> Pin U4-3 not found in net +5V
+# <<WARNING:>> Net GROUND Component IC2 Pin 28 is missing in Image Z
+# <<ERROR:>> Pin IC2-28 not found in net GROUND
+# <<WARNING:>> Net M8RXD Component IC2 Pin 9 is missing in Image Z
+# <<ERROR:>> Pin IC2-9 not found in net M8RXD
+# <<WARNING:>> Net RXLED Component IC2 Pin 10 is missing in Image Z
+# <<ERROR:>> Pin IC2-10 not found in net RXLED
+# <<WARNING:>> Net 'USB BOOT EN' Component IC2 Pin 13 is missing in Image Z
+# <<ERROR:>> Pin IC2-13 not found in net 'USB BOOT EN'
+# <<WARNING:>> Net PB6 Component IC2 Pin 20 is missing in Image Z
+# <<ERROR:>> Pin IC2-20 not found in net PB6
+# <<WARNING:>> Net PB7 Component IC2 Pin 21 is missing in Image Z
+# <<ERROR:>> Pin IC2-21 not found in net PB7
+# <<WARNING:>> Net N22877 Component U3 Pin 3 is missing in Image Z
+# <<ERROR:>> Pin U3-3 not found in net N22877
+# <<WARNING:>> Net USBVCC Component IC2 Pin 31 is missing in Image Z
+# <<ERROR:>> Pin IC2-31 not found in net USBVCC
+# <<WARNING:>> Net GND Component IC2 Pin 3 is missing in Image Z
+# <<ERROR:>> Pin IC2-3 not found in net GND
+# <<WARNING:>> Net GND Component IC2 Pin 33 is missing in Image Z
+# <<ERROR:>> Pin IC2-33 not found in net GND
+# <<WARNING:>> Net RD+ Component IC2 Pin 4 is missing in Image Z
+# <<ERROR:>> Pin IC2-4 not found in net RD+
+# <<WARNING:>> Net RD+ Component IC2 Pin 29 is missing in Image Z
+# <<ERROR:>> Pin IC2-29 not found in net RD+
+# <<WARNING:>> Net TXLED Component IC2 Pin 11 is missing in Image Z
+# <<ERROR:>> Pin IC2-11 not found in net TXLED
+# <<WARNING:>> Net RESET2 Component IC2 Pin 24 is missing in Image Z
+# <<ERROR:>> Pin IC2-24 not found in net RESET2
+# <<WARNING:>> Net SCK2 Component IC2 Pin 15 is missing in Image Z
+# <<ERROR:>> Pin IC2-15 not found in net SCK2
+# <<WARNING:>> Net TP_VUCAP Component IC2 Pin 27 is missing in Image Z
+# <<ERROR:>> Pin IC2-27 not found in net TP_VUCAP
+# Wires Processed 0, Vias Processed 0
+# Layers Processed: Signal Layers 2
+# Components Placed 61, Images Processed 62, Padstacks Processed 24
+# Nets Processed 75, Net Terminals 193
+# PCB Area= 6336.000  EIC=19  Area/EIC=333.474  SMDs=36
+# Total Pin Count: 272
+# Signal Connections Created 114
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0010 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0010 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# Layer BOTTOM Vert Signal Wire Grid 0.0010 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# 
+# Wiring Statistics ----------------- C:/Users/user/AppData/Roaming/SPB_Data/workspace/arduino_r3/allegro\Arduino.dsn
+# Nets 75 Connections 120 Unroutes 114
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 0, at vias 0 Total Vias 0
+# Percent Connected    5.00
+# Manhattan Length 3804.7400 Horizontal 2345.1246 Vertical 1459.6154
+# Routed Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# Ratio Actual / Manhattan   0.0000
+# Unconnected Length 3804.7400 Horizontal 2313.9980 Vertical 1490.7420
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:09
+# Loading Do File pasde.do ...
+# Loading Do File C:/Users/user/AppData/Roaming/SPB_Data/workspace/arduino_r3/allegro\Arduino_rules.do ...
+# Colormap Written to File _notify.std
+# Enter command <# Loading Do File C:/Users/user/AppData/Local/Temp/#Taaaaas14964.tmp ...
+# All Components Unselected.
+# All Nets Unselected.
+set route_diagonal 0
+grid wire 0.001000 (direction x) (offset 0.000000)
+grid wire 0.001000 (direction y) (offset 0.000000)
+grid via 0.001000 (direction x) (offset 0.000000)
+grid via 0.001000 (direction y) (offset 0.000000)
+protect all wires
+# All Wires Protected.
+direction TOP horizontal
+select layer TOP
+unprotect layer_wires TOP
+# Wires on layer TOP were Unprotected.
+direction BOTTOM vertical
+select layer BOTTOM
+unprotect layer_wires BOTTOM
+# Wires on layer BOTTOM were Unprotected.
+cost via -1
+# System default cost will be used.
+set turbo_stagger off
+limit outside -1
+rule pcb (patterns_allowed  trombone accordion)
+set pattern_stacking on
+rule pcb (sawtooth_amplitude -1 -1)
+rule pcb (sawtooth_gap -1)
+rule pcb (accordion_amplitude -1 -1)
+rule pcb (accordion_gap -1)
+rule pcb (trombone_run_length -1)
+rule pcb (trombone_gap -1)
+unprotect selected
+# All Selected Wires Unprotected.
+route 25 1
+# Command route detected pcb layer rule(s), mcm via rule(s), which require the RouteADV license feature.
+# All unlicensed rules are being ignored.
+# Command route will ignore pcb layer rule(s), mcm via rule(s)
+# Current time = Fri Aug 02 11:15:49 2019
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   VIA  
+# BOTTOM   VIA    ------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0010 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0010 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# Layer BOTTOM Vert Signal Wire Grid 0.0010 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# 
+# Wiring Statistics ----------------- C:/Users/user/AppData/Roaming/SPB_Data/workspace/arduino_r3/allegro\Arduino.dsn
+# Nets 75 Connections 120 Unroutes 114
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 0, at vias 0 Total Vias 0
+# Percent Connected    5.00
+# Manhattan Length 3804.7400 Horizontal 2345.1246 Vertical 1459.6154
+# Routed Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# Ratio Actual / Manhattan   0.0000
+# Unconnected Length 3804.7400 Horizontal 2313.9980 Vertical 1490.7420
+# Start Route Pass 1 of 25
+# Routing 65 wires.
+# Total Conflicts: 98 (Cross: 98, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 49
+# Attempts 65 Successes 65 Failures 0 Vias 7
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:01
+# Command check detected pcb layer rule(s), mcm via rule(s), which require the RouteADV license feature.
+# All unlicensed rules are being ignored.
+# Command check will ignore pcb layer rule(s), mcm via rule(s)
+# End Pass 1 of 25
+# Start Route Pass 2 of 25
+# Routing 81 wires.
+# Command check detected pcb layer rule(s), mcm via rule(s), which require the RouteADV license feature.
+# All unlicensed rules are being ignored.
+# Command check will ignore pcb layer rule(s), mcm via rule(s)
+# Total Conflicts: 42 (Cross: 42, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 49
+# Attempts 74 Successes 74 Failures 0 Vias 11
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:00
+# Command check detected pcb layer rule(s), mcm via rule(s), which require the RouteADV license feature.
+# All unlicensed rules are being ignored.
+# Command check will ignore pcb layer rule(s), mcm via rule(s)
+# Conflict Reduction  0.5714
+# End Pass 2 of 25
+# Start Route Pass 3 of 25
+# Routing 95 wires.
+# Command check detected pcb layer rule(s), mcm via rule(s), which require the RouteADV license feature.
+# All unlicensed rules are being ignored.
+# Command check will ignore pcb layer rule(s), mcm via rule(s)
+# Total Conflicts: 15 (Cross: 15, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 49
+# Attempts 81 Successes 81 Failures 0 Vias 17
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# Command check detected pcb layer rule(s), mcm via rule(s), which require the RouteADV license feature.
+# All unlicensed rules are being ignored.
+# Command check will ignore pcb layer rule(s), mcm via rule(s)
+# Conflict Reduction  0.6429
+# End Pass 3 of 25
+# Start Route Pass 4 of 25
+# Routing 105 wires.
+# Command check detected pcb layer rule(s), mcm via rule(s), which require the RouteADV license feature.
+# All unlicensed rules are being ignored.
+# Command check will ignore pcb layer rule(s), mcm via rule(s)
+# Command check detected pcb layer rule(s), mcm via rule(s), which require the RouteADV license feature.
+# All unlicensed rules are being ignored.
+# Command check will ignore pcb layer rule(s), mcm via rule(s)
+# Total Conflicts: 3 (Cross: 3, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 49
+# Attempts 86 Successes 86 Failures 0 Vias 17
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# Command check detected pcb layer rule(s), mcm via rule(s), which require the RouteADV license feature.
+# All unlicensed rules are being ignored.
+# Command check will ignore pcb layer rule(s), mcm via rule(s)
+# Conflict Reduction  0.8000
+# End Pass 4 of 25
+# 20 bend points have been removed.
+# 0 bend points have been removed.
+# 3 bend points have been removed.
+# Start Route Pass 5 of 25
+# Routing 6 wires.
+# Command check detected pcb layer rule(s), mcm via rule(s), which require the RouteADV license feature.
+# All unlicensed rules are being ignored.
+# Command check will ignore pcb layer rule(s), mcm via rule(s)
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 49
+# Attempts 6 Successes 6 Failures 0 Vias 17
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# Command check detected pcb layer rule(s), mcm via rule(s), which require the RouteADV license feature.
+# All unlicensed rules are being ignored.
+# Command check will ignore pcb layer rule(s), mcm via rule(s)
+# End Pass 5 of 25
+# Start Route Pass 6 of 25
+# Routing 0 wires.
+# Command check detected pcb layer rule(s), mcm via rule(s), which require the RouteADV license feature.
+# All unlicensed rules are being ignored.
+# Command check will ignore pcb layer rule(s), mcm via rule(s)
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 49
+# Attempts 0 Successes 0 Failures 0 Vias 17
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:00
+# Command check detected pcb layer rule(s), mcm via rule(s), which require the RouteADV license feature.
+# All unlicensed rules are being ignored.
+# Command check will ignore pcb layer rule(s), mcm via rule(s)
+# End Pass 6 of 25
+# Cpu Time = 0:00:05  Elapsed Time = 0:00:04
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0010 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0010 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# Layer BOTTOM Vert Signal Wire Grid 0.0010 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# Command check detected pcb layer rule(s), mcm via rule(s), which require the RouteADV license feature.
+# All unlicensed rules are being ignored.
+# Command check will ignore pcb layer rule(s), mcm via rule(s)
+# ROUTING HISTORY ================================================================
+#     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+#   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+#----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+# Route    |  1|    98|     0|   0|   49|    7|    0|   0|  0|  0:00:01|  0:00:01|
+# Route    |  2|    42|     0|   0|   49|   11|    0|   0| 57|  0:00:01|  0:00:02|
+# Route    |  3|    15|     0|   0|   49|   17|    0|   0| 64|  0:00:00|  0:00:02|
+# Route    |  4|     3|     0|   0|   49|   17|    0|   0| 80|  0:00:00|  0:00:02|
+# Route    |  5|     0|     0|   0|   49|   17|    0|   0|100|  0:00:00|  0:00:02|
+# Route    |  6|     0|     0|   0|   49|   17|    0|   0|  0|  0:00:01|  0:00:03|
+# Conflicts between polygon wires and fixed objects:   0
+# Stub Violations:   0
+# Net Order Violations:   0
+# Diffpair Uncoupled Length Violations:   0
+# Diffpair Phase Tolerance  Violations:   0
+# Total layerset violations:   0
+# Total layerset violations (exclude Fanout/Stagger/XNet Short side):   0
+# Overall Routing Time: 0:00:03
+# 
+# Wiring Statistics ----------------- C:/Users/user/AppData/Roaming/SPB_Data/workspace/arduino_r3/allegro\Arduino.dsn
+# Nets 75 Connections 120 Unroutes 49
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 20, at vias 1 Total Vias 17
+# Percent Connected   59.17
+# Manhattan Length 3807.2950 Horizontal 2342.2372 Vertical 1465.0578
+# Routed Length 1727.1210 Horizontal 1362.9960 Vertical 364.1250
+# Ratio Actual / Manhattan   0.4536
+# Unconnected Length 2190.3400 Horizontal 965.1900 Vertical 1225.1500
+clean 2
+# Command clean detected pcb layer rule(s), mcm via rule(s), which require the RouteADV license feature.
+# All unlicensed rules are being ignored.
+# Command clean will ignore pcb layer rule(s), mcm via rule(s)
+# Current time = Fri Aug 02 11:15:54 2019
+# 
+#    VIA     TOP  BOTTOM
+# 
+#    TOP  ------   VIA  
+# BOTTOM   VIA    ------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0010 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0010 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# Layer BOTTOM Vert Signal Wire Grid 0.0010 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# 
+# Wiring Statistics ----------------- C:/Users/user/AppData/Roaming/SPB_Data/workspace/arduino_r3/allegro\Arduino.dsn
+# Nets 75 Connections 120 Unroutes 49
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 20, at vias 1 Total Vias 17
+# Percent Connected   59.17
+# Manhattan Length 3807.2950 Horizontal 2342.2372 Vertical 1465.0578
+# Routed Length 1727.1210 Horizontal 1362.9960 Vertical 364.1250
+# Ratio Actual / Manhattan   0.4536
+# Unconnected Length 2190.3400 Horizontal 965.1900 Vertical 1225.1500
+# Start Clean Pass 1 of 2
+# Routing 102 wires.
+# Command check detected pcb layer rule(s), mcm via rule(s), which require the RouteADV license feature.
+# All unlicensed rules are being ignored.
+# Command check will ignore pcb layer rule(s), mcm via rule(s)
+# Command check detected pcb layer rule(s), mcm via rule(s), which require the RouteADV license feature.
+# All unlicensed rules are being ignored.
+# Command check will ignore pcb layer rule(s), mcm via rule(s)
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 49
+# Attempts 84 Successes 84 Failures 0 Vias 15
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# Command check detected pcb layer rule(s), mcm via rule(s), which require the RouteADV license feature.
+# All unlicensed rules are being ignored.
+# Command check will ignore pcb layer rule(s), mcm via rule(s)
+# End Pass 1 of 2
+# Start Clean Pass 2 of 2
+# Routing 105 wires.
+# Command check detected pcb layer rule(s), mcm via rule(s), which require the RouteADV license feature.
+# All unlicensed rules are being ignored.
+# Command check will ignore pcb layer rule(s), mcm via rule(s)
+# Command check detected pcb layer rule(s), mcm via rule(s), which require the RouteADV license feature.
+# All unlicensed rules are being ignored.
+# Command check will ignore pcb layer rule(s), mcm via rule(s)
+# 1 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 49
+# Attempts 83 Successes 83 Failures 0 Vias 14
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# Command check detected pcb layer rule(s), mcm via rule(s), which require the RouteADV license feature.
+# All unlicensed rules are being ignored.
+# Command check will ignore pcb layer rule(s), mcm via rule(s)
+# End Pass 2 of 2
+# Cpu Time = 0:00:02  Elapsed Time = 0:00:01
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0010 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0010 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# Layer BOTTOM Vert Signal Wire Grid 0.0010 with offset 0.0000, Width= 0.1270, Clearance= 0.1270
+# Command check detected pcb layer rule(s), mcm via rule(s), which require the RouteADV license feature.
+# All unlicensed rules are being ignored.
+# Command check will ignore pcb layer rule(s), mcm via rule(s)
+# ROUTING HISTORY ================================================================
+#     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+#   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+#----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+# Route    |  1|    98|     0|   0|   49|    7|    0|   0|  0|  0:00:01|  0:00:01|
+# Route    |  2|    42|     0|   0|   49|   11|    0|   0| 57|  0:00:01|  0:00:02|
+# Route    |  3|    15|     0|   0|   49|   17|    0|   0| 64|  0:00:00|  0:00:02|
+# Route    |  4|     3|     0|   0|   49|   17|    0|   0| 80|  0:00:00|  0:00:02|
+# Route    |  5|     0|     0|   0|   49|   17|    0|   0|100|  0:00:00|  0:00:02|
+# Route    |  6|     0|     0|   0|   49|   17|    0|   0|  0|  0:00:01|  0:00:03|
+# Clean    |  7|     0|     0|   0|   49|   15|    0|   0|   |  0:00:00|  0:00:03|
+# Clean    |  8|     0|     0|   0|   49|   14|    0|   0|   |  0:00:00|  0:00:03|
+# Conflicts between polygon wires and fixed objects:   0
+# Stub Violations:   0
+# Net Order Violations:   0
+# Diffpair Uncoupled Length Violations:   0
+# Diffpair Phase Tolerance  Violations:   0
+# Total layerset violations:   0
+# Total layerset violations (exclude Fanout/Stagger/XNet Short side):   0
+# Overall Routing Time: 0:00:03
+# 
+# Wiring Statistics ----------------- C:/Users/user/AppData/Roaming/SPB_Data/workspace/arduino_r3/allegro\Arduino.dsn
+# Nets 75 Connections 120 Unroutes 49
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 19, at vias 1 Total Vias 14
+# Percent Connected   59.17
+# Manhattan Length 3810.9510 Horizontal 2350.1550 Vertical 1460.7960
+# Routed Length 1713.7840 Horizontal 1364.9520 Vertical 348.8320
+# Ratio Actual / Manhattan   0.4497
+# Unconnected Length 2190.3400 Horizontal 965.1900 Vertical 1225.1500
+write routes (changed_only) (reset_changed) C:/Users/user/AppData/Local/Temp/#Taaaaat14964.tmp
+# Routing Written to File C:/Users/user/AppData/Local/Temp/#Taaaaat14964.tmp
+quit

@@ -1,0 +1,79 @@
+<HTML><HEAD><STYLE TYPE="text/css">.errorMessage { color:darkred; font-weight:bold; font-style:italic; text-decoration:underline; }</STYLE></HEAD><BODY><PRE>
+Thu Aug 01 16:04:39 2019				Page     1
+
+
+ 
+Update Symbols/Modules Logfile
+	Thu Aug 01 16:04:39 2019
+
+------ Module Refresh Messages ------
+
+SUMMARY:    Updated 0 out of 0 modules
+
+------ End Module Messages     ------
+
+
+
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Symbol                                                   )
+(                                                                     )
+(    Drawing          : arduino_outline.brd                           )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Thu Aug 01 16:04:40 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Thu Aug 01 16:04:40 2019				Page     1
+
+
+------ Symbol Refresh Directives ------
+
+Input design  = 'C:/Users/user/AppData/Roaming/SPB_Data/workspace/arduino_r3/arduino_outline.brd'
+Output design = ''
+
+Update mechanical symbols              = 'NO'
+Update format symbols                  = 'NO'
+Update package symbols                 = 'NO'
+Update shape/flash symbols             = 'NO'
+Update symbol padstacks                = 'NO'
+Preserve padstacks replaced on pins    = 'NO'
+Reset symbol text and size locations   = 'NO'
+Reset Pin Escapes (fanouts)            = 'NO'
+Ripup Etch                             = 'NO'
+Reset custom drill data                = 'NO'
+Symbol list file                       = 'C:/Users/user/AppData/Local/Temp/#Taaaajd06300.tmp'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
+           C:/Users/user/Desktop/OrCAD_vscode/pcb_lib/psm/ 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/padstacks 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
+           C:/Users/user/Desktop/OrCAD_vscode/pcb_lib/pad/ 
+
+
+------ Symbol Refresh Messages ------
+
+<b><i><font color="darkred">WARNING(SPMHNI-255)</i></b></font>: Symbol '' not found (in list file).
+<b><i><font color="darkred">WARNING(SPMHNI-255)</i></b></font>: Symbol 'OR_6' not found (in list file).
+<b><i><font color="darkred">WARNING(SPMHNI-255)</i></b></font>: Symbol '$ŠQ' not found (in list file).
+<b><i><font color="darkred">WARNING(SPMHNI-255)</i></b></font>: Symbol 'ˆº½' not found (in list file).
+<b><i><font color="darkred">WARNING(SPMHNI-255)</i></b></font>: Symbol ' ½|ØC' not found (in list file).
+<b><i><font color="darkred">WARNING(SPMHNI-255)</i></b></font>: Symbol 'À¿TØC' not found (in list file).
+<b><i><font color="darkred">WARNING(SPMHNI-255)</i></b></font>: Symbol '0¿LØC' not found (in list file).
+<b><i><font color="darkred">WARNING(SPMHNI-255)</i></b></font>: Symbol 'H¿<ØC' not found (in list file).
+<b><i><font color="darkred">WARNING(SPMHNI-255)</i></b></font>: Symbol '@%½,ØC' not found (in list file).
